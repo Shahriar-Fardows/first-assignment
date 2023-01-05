@@ -5,8 +5,8 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Oswald', sans-serif;
     font-family: 'Roboto', sans-serif;
-};bd
-.banner{
+}
+header{
     height: 100vh;
     width: 100vw;
     background-image: url(./images/banner/banner3.png);
