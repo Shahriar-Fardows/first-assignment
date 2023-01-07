@@ -23,6 +23,7 @@ body{
     font-size: 65px;
     color: aliceblue;
     margin-bottom: 24px;
+    
 }
 .header-para{
     font-size: 16px;
@@ -69,3 +70,75 @@ body{
     color: lawngreen;
 }
 
+/* part 2 */
+
+.part2{
+    text-align: center;
+    margin: 10rem;
+    font-size: 3rem;
+}
+.all-plan{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    margin: 10px 10rem;
+}
+
+/* part 3 */
+
+.backpart{
+    background-image: url(/images/watch.png);
+    background-repeat: no-repeat;
+    margin: 290px;
+   
+}
+.part3{
+  
+    background-repeat: no-repeat;
+    background-image: url(/images/gradient1.png);
+    margin: 290px 290px px 0;
+    padding: 65px;
+}
+.gredien{
+    font-size: 2rem 0px;
+    color: aliceblue;
+}
+.call-btn{
+    margin-top: 20px;
+    padding: 20px 36px;
+    color: #005FAC;
+    border-radius: 10px;
+    border: none;
+}
+
+/* footer */
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: aliceblue;
+    padding: 230px;
+}
+.footer h1 , p {
+    margin-bottom: 20px;
+}
+
+.img{
+    margin: 10px 10px 10px 0;
+}
+#email{
+    margin: 20px 10px 10px 0;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.Subscribe{
+    padding: 20px 30px;
+    background-color: #005FAC;
+    color: aliceblue;
+    border-radius: 5px ;
+}
