@@ -2,5 +2,37 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: aqua;
+   
+
+
+}
+body{
+    background-image: url(/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-size:100%;
+}
+
+/* header style  */
+
+.header-info{
+    text-align: end;
+    margin: 300px 400px 0 0;
+}
+
+.header-h1{
+    font-size: 65px;
+    color: aliceblue;
+    margin-bottom: 24px;
+}
+.header-para{
+    font-size: 16px;
+    color: aliceblue;
+    margin-bottom: 32px;
+}
+.header-btn{
+    font-size: 20px;
+    color: #005FAC;
+    border: none;
+    padding: 20px 26px ;
+    border-radius: 10px;
 }
